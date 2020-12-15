@@ -1,0 +1,28 @@
+<html>
+<head>
+
+img{
+    
+    60%
+    
+}
+<style>
+
+.textDiv {
+  background-color: lightgrey;
+  width: 388px;
+  border: 8px solid blue;
+  padding: 50px;
+  margin: 20px;
+}
+
+.titleDiv{
+  width: 388px;
+  padding: 15px;
+  margin: 20px;
+  border: 8px solid blue;
+}
+</style>
+
+</body>
+</html>
